@@ -1,0 +1,8 @@
+## 目的
+因为要在特定的环境下使用定制的Chromium，所以accessibility的功能是不会用到的，因此在开发时将其删除。
+## 步骤
+### 删除blink中accessibility相关
+删除accessibility目录，注释gn文件中accessibility文件，删除accessibility相关的mojo文件，
+最主要是在一些用到accessibility的源码中注释accessibility相关的调用
+### 删除content中accessibility相关
+删除accessibility目录，注释gn文件中accessibility文件，最主要是在一些用到accessibility的源码中注释accessibility相关的调用
