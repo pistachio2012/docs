@@ -6,7 +6,7 @@
 
 # 本人的主页
 www.ranpeng.fun
-email: pistachio2012@ranpeng.fun
+email: pistachio2012@126.com
 
 # 合作
 如果您有Chromium相关的项目，咱们可以合作。
